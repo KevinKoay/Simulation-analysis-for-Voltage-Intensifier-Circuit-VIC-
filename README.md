@@ -39,3 +39,6 @@ This subfolder contains the verified **QSpice schematic files (`.qsch`)**, mathe
 1. Download and install **QSpice** from [Qorvo](https://www.qorvo.com/design-hub/design-tools/interactive/qspice).
 2. Open `VIC_4400V_8667Hz.qsch` inside QSpice.
 3. Press **Run (F5)** to execute the transient analysis.
+
+Refer to preprint for the simulation analysis:
+https://doi.org/10.5281/zenodo.21775603
