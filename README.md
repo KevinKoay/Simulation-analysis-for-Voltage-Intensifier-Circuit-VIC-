@@ -6,7 +6,10 @@
 
 ## 📌 Overview
 
-This subfolder contains the verified **QSpice schematic files (`.qsch`)**, mathematical documentation, and wave calculation reports for the **Aiding Bifilar Dual-Resonant Voltage Intensifier Circuit (VIC)** digital twin.
+This subfolder contains the verified **QSpice schematic files (`.qsch`)**.
+
+Refer to preprint for the simulation analysis:
+https://doi.org/10.5281/zenodo.21775603
 
 ---
 
@@ -40,5 +43,4 @@ This subfolder contains the verified **QSpice schematic files (`.qsch`)**, mathe
 2. Open `VIC_4400V_8667Hz.qsch` inside QSpice.
 3. Press **Run (F5)** to execute the transient analysis.
 
-Refer to preprint for the simulation analysis:
-https://doi.org/10.5281/zenodo.21775603
+
