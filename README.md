@@ -8,7 +8,7 @@
 
 This subfolder contains the verified **QSpice schematic files (`.qsch`)**.
 
-Refer to preprint for the simulation analysis:
+Refer to preprint for the simulation analysis "Mathematical Modeling, High-Voltage Resonant Optimization, and Digital Twin Simulation of a Unipolar Voltage Intensifier Circuit (VIC) for Energy-Efficient Water Electrolysis":
 https://doi.org/10.5281/zenodo.21775603
 
 ---
